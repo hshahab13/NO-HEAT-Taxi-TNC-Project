@@ -1,0 +1,26 @@
+{
+    "id": "43F0F226",
+    "path": "~/GitHub/NO-HEAT-Taxi-TNC-Project/NO-HEAT-clean/Scripts/study_days_sample.R",
+    "project_path": "Scripts/study_days_sample.R",
+    "type": "r_source",
+    "hash": "306537509",
+    "contents": "",
+    "dirty": false,
+    "created": 1756941275034.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "66,23",
+        "scrollLine": "53"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756946738,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756946738109,
+    "read_only": false,
+    "read_only_alternatives": []
+}
